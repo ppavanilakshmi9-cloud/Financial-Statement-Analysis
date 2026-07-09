@@ -20,5 +20,10 @@
   -Dataset
   -Power BI
   -Documentation
+## Future Improvements
+  -Add more SQL analytical queries
+  -Upload Power BI dashboard(.pbix)
+  -Add dashboard screenshots
+  -Include Business Insights from the analysis
 ## Author
    **Pavani Lakshmi Malleswari Chundru**
