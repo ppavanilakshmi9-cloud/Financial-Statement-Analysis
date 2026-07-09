@@ -24,6 +24,17 @@
   -Add more SQL analytical queries
   -Upload Power BI dashboard(.pbix)
   -Add dashboard screenshots
-  -Include Business Insights from the analysis
+  -Include Business Insights from the analysisabase Design
+  -Data Modeling
+  -Financial Statement Analysis
+  -Financial Ratio Analysis
+  -SQL joins
+  -Common Table Expressions(CTEs)
+  -Window Functions
+  -Views
+  -Aggregate Functions
+  -Business Reporting
+## Skills Demonstrated
+-SQL Dat
 ## Author
    **Pavani Lakshmi Malleswari Chundru**
