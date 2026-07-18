@@ -1,40 +1,65 @@
 # Financial-Statement-Analysis using SQL Server
 ## Project Overview
-   This Project analyzes company financial statements using SQL server.
-   It Includes database design, SQL queries, financial ratio analysis,  and Power BI dashboards.
+   This Project analyzes company financial statements of five companies using SQL server and Power BI.
+   It covers Income Statement, Balance sheet, Cash Flow Statement, Financial Ratio Analysis, and interactive dashboard development to evaluate company performance and support       financial decision-making
 ## Tools Used:
   -SQL Server
   -SQL Server Management studio(SSMS)
   -Power BI
   -GitHub
-## Features
-  -Database creation
+## Key Features
+  -Database creation and data modeling
   -Income Statement Analysis
   -Balance Sheet Analysis
   -Cash Flow Statement Analysis
-  -Financial Ratio calculations
+  -Financial Ratio analysis
   -SQL Queries for Business Insights
-  -Power BI Dashboard
+  -Interactive Power BI Dashboard
+  -KPI Cards and Financial Visuaisations
 ## Project Structure
-  -SQL Queries
   -Dataset
-  -Power BI
-  -Documentation
+  -SQL Queries
+  -Power BI Dashboard
+  -README.md
+##Dashboard Pages
+  -Executive Summary
+  -Income Statement Analysis
+  -Balance Sheet Analysis
+  -Cash Flow Analysis
+##Skills Demonstrated
+  SQL
+    -Joins
+    -Common Table Expressions(CTEs)
+    -Window Functions
+    -Aggregate Functions
+    -CASE Statements
+    -GROUP BY
+    -ORDER BY
+    -Subqueries
+   Financial Analysis
+    -Financial statement Analysis
+    -Financial Ratio Analysis
+    -Liquidity Analysis
+    -Profitability Analysis
+    -Leverage Analysis
+    -Cash Flow Analysis
+   Power BI
+    -Data Modeling
+    -DAX measures
+    -KPI Cards
+    -Interactive Slicers
+    -Financial Dashboards
+    -Data Visualisation
+  
 ## Future Improvements
-  -Add more SQL analytical queries
+  -Add more advanced SQL analytical queries
   -Upload Power BI dashboard(.pbix)
-  -Add dashboard screenshots
-  -Include Business Insights from the analysisabase Design
-  -Data Modeling
-  -Financial Statement Analysis
-  -Financial Ratio Analysis
-  -SQL joins
-  -Common Table Expressions(CTEs)
-  -Window Functions
-  -Views
-  -Aggregate Functions
-  -Business Reporting
-## Skills Demonstrated
--SQL Dat
+  -Include detailed Business Insights
+  -Expand Financial Ratio Analysis
+  -Add multi-year financial trend analysis
+
+
 ## Author
    **Pavani Lakshmi Malleswari Chundru**
+     MBA(Finance)
+     Investment Banking & Financial Analysis Enthusiast
